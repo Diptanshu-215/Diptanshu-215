@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Diptanshu Saurav</h1>
 <h3 align="center">Still figuring out if it’s a bug or a feature.</h3>
 
