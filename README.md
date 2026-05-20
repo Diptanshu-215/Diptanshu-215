@@ -16,9 +16,8 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Currently studying at **IIT Patna**
-- 🌱 Learning **Web Development**, **App Development**, and **Blockchain**
-- 🔍 Always exploring new tech and building cool stuff
-- 💬 Ask me about anything full-stack or decentralized
+- Learning **Web Development**, **App Development**, and **Blockchain**
+- Always exploring new tech and building cool stuff
 
 ---
 
