@@ -78,5 +78,5 @@
 </p>
 
 <p align="center">
-  <em>Always learning. Always building. One commit at a time.</em>
+  <em>Always learning. Always building.</em>
 </p>
