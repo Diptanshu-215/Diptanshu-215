@@ -1,7 +1,7 @@
 # Hey, I'm Diptanshu Saurav 👋
 
 <p align="center">
-  <em>Building things for the web, exploring new ideas, and occasionally wondering if it's a bug or a feature.</em>
+  <em>Still figuring out if it's a bug or a feature.</em>
 </p>
 
 <p align="center">
@@ -13,18 +13,16 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-I'm a final-year undergraduate at **IIT Patna**, studying Metallurgical and Materials Engineering, with a strong interest in software development and building products.
-
+- 🎓 Final-year undergraduate at **IIT Patna**, studying Metallurgical and Materials Engineering.
 - 💻 Interested in full-stack development, AI-powered applications, and app development.
 - 🧩 Enjoy solving DSA problems and exploring new technologies.
-- 🚀 Experience building web applications, APIs, and end-to-end projects.
-- 🎨 Interested in UI/UX, design, and creating products that look as good as they work.
+- 🎨 Interested in UI/UX, photography, and creative digital experiences.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -52,52 +50,31 @@ I'm a final-year undergraduate at **IIT Patna**, studying Metallurgical and Mate
 
 ---
 
-## Featured Projects
+## 🏆 Achievements
 
-### 🤖 MockInterviewAI
-An AI-powered interview preparation application built to help users practice interviews with intelligent feedback and interactive features.
-
-**Tech:** Next.js, TypeScript, Gemini AI, Murf AI
-
-### 🗳️ MyVote
-A voter pre-verification system designed to streamline verification before election day using identity verification, OCR, QR codes, and blockchain-based record integrity.
-
-**Tech:** Next.js, Node.js, Express, MongoDB, Solidity, Ethereum
-
-### 💪 Fitzy
-A fitness social application with workouts, goals, achievements, training groups, and social features, backed by a structured REST API and PostgreSQL database.
-
-**Tech:** Flutter, Node.js, Express, Prisma, PostgreSQL
-
-> Add links to each project's GitHub repository and live demo above before publishing this section.
-
----
-
-## Achievements
-
-- 🏆 Ranked in the **Top 105** among 3,700+ entries in the Google Solution Challenge 2025.
-- 💻 **Codeforces Specialist** — peak rating of 1489.
-- 👨‍💻 **500+ DSA problems solved** across coding platforms.
-- 🥉 Ranked 6 in the Murf Coding Challenge.
+- 🥇 Top 105 among 3,700+ entries in Google Solution Challenge 2025.
+- 💻 Codeforces Specialist — peak rating **1489**.
+- 🧠 Solved **500+ DSA problems** across coding platforms.
+- 🚀 Ranked 6 in the Murf Coding Challenge.
 - 🎓 Ranked in the top 2% in JEE Advanced 2023.
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diptanshu-215&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub statistics" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptanshu-215&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=diptanshu-215&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptanshu-215&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diptanshu-215&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diptanshu-215&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diptanshu-215&style=flat-square&color=6366f1" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=diptanshu-215&style=flat-square&color=6366f1" alt="Profile Views"/>
 </p>
 
 <p align="center">
