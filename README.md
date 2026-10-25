@@ -1,7 +1,7 @@
-# Hey, I'm Diptanshu Saurav 👋
+![Animated Header](https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:111C3A,100:2563EB&height=190&section=header&text=Diptanshu%20Saurav&fontSize=38&fontColor=EAF2FF&fontAlignY=38&animation=fadeIn)
 
 <p align="center">
-  <em>Still figuring out if it's a bug or a feature.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=700&color=60A5FA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+AI-powered+applications;Exploring+creative+technology;Turning+ideas+into+products" alt="Typing animation"/>
 </p>
 
 <p align="center">
@@ -13,41 +13,26 @@
 
 ---
 
-## 🧑‍💻 About Me
+## `whoami` — About Me
 
 - 🎓 Final-year undergraduate at **IIT Patna**, studying Metallurgical and Materials Engineering.
-- 💻 Interested in full-stack development, AI-powered applications, and app development.
-- 🧩 Enjoy solving DSA problems and exploring new technologies.
-- 🎨 Interested in UI/UX, photography, and creative digital experiences.
+- 💻 Interested in full-stack development, AI-powered applications, and mobile development.
+- 🧩 I enjoy solving DSA problems and building end-to-end products.
+- 🎨 Into UI/UX, photography, and creative digital experiences.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,solidity" alt="C++, JavaScript, TypeScript, Python, Solidity"/>
+<p align="center">
+  <img src="https://readme-stats-theta-sepia.vercel.app/api/tech-icon-marquee?techs=cpp,javascript,typescript,python,react,nextjs,tailwind,nodejs,express,postgresql,mongodb,prisma,docker,git,github,figma,firebase,flutter,solidity&theme=dark&width=850" alt="Animated scrolling technology icons" width="100%"/>
 </p>
 
-**Frontend & Mobile**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,flutter" alt="React, Next.js, Tailwind CSS, HTML, CSS, Flutter"/>
+<p align="center">
+  <sub>Always exploring new tools and technologies.</sub>
 </p>
 
-**Backend & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,firebase" alt="Node.js, Express, PostgreSQL, MongoDB, Prisma, Firebase"/>
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vercel,googlecloud" alt="Git, GitHub, Docker, Figma, Postman, Vercel, Google Cloud"/>
-</p>
-
+---
 
 ## 📊 GitHub Stats
 
@@ -68,4 +53,8 @@
 
 <p align="center">
   <em>Always learning. Always building.</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:080B16&height=90&section=footer" width="100%" alt="Footer"/>
 </p>
