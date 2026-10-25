@@ -48,17 +48,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vercel,googlecloud" alt="Git, GitHub, Docker, Figma, Postman, Vercel, Google Cloud"/>
 </p>
 
----
-
-## 🏆 Achievements
-
-- 🥇 Top 105 among 3,700+ entries in Google Solution Challenge 2025.
-- 💻 Codeforces Specialist — peak rating **1489**.
-- 🧠 Solved **500+ DSA problems** across coding platforms.
-- 🚀 Ranked 6 in the Murf Coding Challenge.
-- 🎓 Ranked in the top 2% in JEE Advanced 2023.
-
----
 
 ## 📊 GitHub Stats
 
